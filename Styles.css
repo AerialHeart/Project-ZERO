@@ -1,0 +1,34 @@
+body {
+
+background-color: #c8c8c8;
+color: #1e1e1e;
+}
+
+h1
+{
+    font-family: "FETesto-Regular";
+}
+
+.top {
+    background-color: aqua;
+    position: absolute;
+    box-sizing: border-box;
+    width: 100%;
+}
+.top-top{
+    position: relative;
+}
+.top-down{
+    position: relative;
+}
+
+
+
+
+  @font-face {
+    font-family: "FETesto-Regular";
+    src: url("../fonts/FETesto-Regular.ttf")
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+  }
