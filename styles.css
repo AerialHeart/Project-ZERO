@@ -28,6 +28,7 @@ h1
 }
 
 .menu > div{
+    position: relative;
     height: 200px;
     width: 16.6%;
     float: left;
