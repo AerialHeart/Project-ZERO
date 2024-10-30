@@ -32,7 +32,7 @@ h1
 
   @font-face {
     font-family: "FETesto-Regular";
-    src: url("../fonts/FETesto-Regular.ttf")
+    src: url("fonts/FETesto-Regular.ttf")
     format("truetype");
     font-style: normal;
     font-weight: normal;
