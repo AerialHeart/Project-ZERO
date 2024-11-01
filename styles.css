@@ -34,7 +34,7 @@ h1
     float: left;
     border: 4px solid #550c0c;
     box-sizing: border-box;
-    text-align: center;
+    text-align: center !important;
     text-transform: uppercase;
     align-items: center;
     padding: 0;
